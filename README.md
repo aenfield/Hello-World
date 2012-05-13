@@ -5,4 +5,4 @@ This is a readme file for a first github project.
 
 I've added a new line.
 
-And another new line. And some text.
+And another new line. And some text. And some more text.
